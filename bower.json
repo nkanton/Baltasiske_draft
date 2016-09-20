@@ -1,0 +1,28 @@
+{
+  "name": "baltasiske",
+  "description": "Commercial shipments of firewood, unprocessed wood products.",
+  "main": "index.html",
+  "authors": [
+    "Anton Volchan <nkanton@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3",
+    "ng-dialog": "^0.6.4",
+    "ngmap": "^1.17.6"
+  }
+}
